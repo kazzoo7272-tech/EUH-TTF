@@ -9,10 +9,10 @@ An independent research program developed 2022–2025 in Ontario, Canada.
 
 Papers (all permanently archived on Zenodo with DOIs)
 
-EUH Foundation →  (https://doi.org/10.5281/zenodo.17701047)
+EUH Foundation → (https://doi.org/10.5281/zenodo.17701047)
 CHF – Coherent Harmonic Field → (https://doi.org/10.5281/zenodo.17703682)
-TTF – Triadic Topological Framework →
-GFE – Gretzky Forecasting Engine →
+TTF – Triadic Topological Framework → (https://doi.org/10.5281/zenodo.17714503)
+GFE – Gretzky Forecasting Engine → (https://doi.org/10.5281/zenodo.17714678)
 QSC – Quantum Smith Chart (Core) →
 Traversable Wormhole Qubit Teleportation →
 **....
